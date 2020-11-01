@@ -11,3 +11,5 @@ After dropping duplicates and those far smaller than our expectations, at last w
 As our dataset is limited, we did image augmentation for our training set before modeling, extracted features from a pre-trained model VGG19, and applied fine tuning to improve our model.
 
 Finally we got 88% validation accuracy for our model and learned that our model did not do well in recognizing tricky face masks, faces mostly covered by something other than face masks, faces wearing masks improperly, and low resolution images. So, that is where our model still need improvements.
+
+For our images dataset, see https://drive.google.com/drive/folders/1J6dlwyh5lA1-BbbGUNPOWLzLZDY48JGQ?usp=sharing.
