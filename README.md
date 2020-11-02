@@ -1,4 +1,4 @@
-# Face-Masks-Recognition-using-CNN
+# Binary-Class-Face-Masks-Recognition-using-CNN
 
 This is a project completed by me and my teammates during the Deep Learning course at UConn. In this project we were applying convolutional neural network to recognize whether a human face is wearing a face mask and whether the person is wearing the mask properly.
 
